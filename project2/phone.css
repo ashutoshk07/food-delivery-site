@@ -1,0 +1,35 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+.item{
+    margin: -8px;
+}
+/* Home */
+#home{
+    padding: 3px 47px;
+}
+#home::before{
+    width: 106%;
+}
+#home p{
+    font-size: 14px;
+}
+#home h1{
+    font-size: 30px;
+}
+/* services */
+#services{
+    flex-direction: column;
+}
+/* clients */
+#client-section{
+    height: 243px;
+}
+.client-item img{
+    height: 68px;
+}
+.btnn{
+    width: 66%;
+    margin-left: 26%;
+}
